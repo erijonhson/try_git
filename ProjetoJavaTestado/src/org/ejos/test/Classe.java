@@ -2,6 +2,6 @@ package org.ejos.test;
 
 public class Classe {
 
-	// exemplo
+	// exemplo de modificação no tests
 	
 }
